@@ -104,7 +104,14 @@ situaciones criticas en diferentes metodos, por lo tanto, las pruebas unitarias 
 
 ------------------------------------- Resultado final del metodo y las pruebas unitarias -------------------------------------
 
-![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/912c4755-38ae-4ab9-9797-a0630e4c670c)
+![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/33b2d60e-496b-49c1-a3fc-5c34dc71d694)
 
-![image](https://github.com/BenjaFA/PALINDROMOS/assets/142508978/4e195fba-d8cb-4f5c-804d-5c16d7fd54b4)
+![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/9d4c9ed8-5fed-461f-ab6b-864a7b9f57e4)
+
+![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/84d9fa61-4166-4b2a-88a9-e2d121e6d119)
+
+Resultado de pruebas unitarias:
+
+![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/8505a02a-acd1-41d7-9860-ad390fa2f253)
+
 
