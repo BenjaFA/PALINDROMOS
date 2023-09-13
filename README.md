@@ -77,37 +77,19 @@ caso prueba 5: falso
 
 ¿Que consideraciones tomaron en cuenta?
 
-R:
+R: Consideramos las entradas de numeros, entradas vacias y con espacios.
 
 ¿Que mejoró en su método?
-R:
+
+R: la resistencia a posibles errores los cuales no podian ser tomados como argumentos anteriormente.
 
 ¿Qué rol jugaron las pruebas en mejorar su codigo?
-R:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+R: nos dieron una mejor vision en como podriamos implementar en nuestro cdigo añadiendo excepciones.
 
 
 
             //                        REPOSITORIO COMUNITARIO
+
+            
 ![reposi comu](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/72cc6aa6-3b54-483b-b587-a40f2898f57e)
