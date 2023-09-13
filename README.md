@@ -26,8 +26,12 @@ ejemplo:
 -por ultimo se compara la cadena de texto principal en este caso "oso" la cual se comparará con la cadena invertida por lo cual retornara si es un palindromo o no.
 
 ------------------- Paso 2 ----------------------------
+Benjamín Fernández: ![palindromo](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/cc9ddee8-aedf-4a63-bed1-14d9ea0327a7)
+
 
 Alex Sáez: ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/6a54467b-af11-4923-910a-85705f806b6e)
+
+
 
 
 
