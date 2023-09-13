@@ -93,3 +93,10 @@ R: nos dieron una mejor vision en como podriamos implementar en nuestro cdigo a√
 
             
 ![reposi comu](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/72cc6aa6-3b54-483b-b587-a40f2898f57e)
+
+
+
+-------------------------------- Paso 5 --------------------------------------------
+
+Conclusion: Gracias a las pruebas unitarias podemos transformar un metodo que tenga varios erroes en un metodo mas estable contra errores, ademas, nos permite mejorar en el analisis de
+situaciones criticas en diferentes metodos, por lo tanto, las pruebas unitarias es una parte importante en el testing de codigo.
