@@ -1,7 +1,7 @@
 # PALINDROMOS
 trabajo grupal
 
-Integrantes: Benjamin Fernandez - Yoandri Villarroel
+Integrantes: Benjamin Fernandez - Yoandri Villarroel - Alex Saez
 
 --------------------- Paso 1 ------------------------
 
