@@ -38,6 +38,7 @@ Yoandri Villarroel: ![Captura pantalla](https://github.com/BenjaFA/PALINDROMOS/a
 
 ------------------- Paso 3 --------------------------------
 
+3.2: Los posibles casos criticos son: entrada vacia o nula, mayusculas o minusculas, espacios en blancos, caracteres especiales (@&$%) y entrada de numeros
 
 
 
