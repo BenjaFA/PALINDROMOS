@@ -27,6 +27,7 @@ ejemplo:
 
 ------------------- Paso 2 ----------------------------
 
+Alex Sáez: ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/6a54467b-af11-4923-910a-85705f806b6e)
 
 
 
