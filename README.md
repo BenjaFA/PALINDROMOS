@@ -43,11 +43,34 @@ Yoandri Villarroel: ![Captura pantalla](https://github.com/BenjaFA/PALINDROMOS/a
 3.4 ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/dafc14d4-7602-44d1-8d12-73cdd06164ea)
  
 
+--------------------- Paso 4 ------------------------
 
+4.1:
 
+- Caso de prueba 1:
+Input: 200 (número entero)
+Output: ????
+caso prueba 1: falso
 
+- Caso de prueba 2:
+Input: “” (cadena vacía)
+Output: ????
+caso prueba 2: falso
 
+- Caso de prueba 3:
+Input: “aaabccbaaa”
+Output: ????
+caso prueba 3: verdadero
 
+- Caso de prueba 4:
+Input: “ahabccbaaa”
+Output: ????
+caso prueba 4: falso
+
+- Caso de prueba 5:
+Input: “La tele letal”
+Output: ????
+caso prueba 5: falso
 
 
 
