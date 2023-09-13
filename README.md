@@ -28,5 +28,42 @@ ejemplo:
 ------------------- Paso 2 ----------------------------
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             //                        REPOSITORIO COMUNITARIO
 ![reposi comu](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/72cc6aa6-3b54-483b-b587-a40f2898f57e)
