@@ -6,7 +6,6 @@ Integrantes: Benjamin Fernandez - Yoandri Villarroel
 ------------------- Paso 1 ------------------------
 
 ¿Qué hace el método?
-
 R: Este metodo toma una cadena de texto en la entrada y en la salida retorna la comparacion entre la cadena invertida y la cadena ingresada.
 
 ¿Cómo lo hace?
