@@ -16,4 +16,4 @@ R: primero crea una variable "resultado" siendo una cadena vacia, luego cambia e
 
 
             //Repositorio comunitario
-            ![image](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/550437a0-3428-418c-ab09-4e8cba9eb5ae)
+![reposi comu](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/72cc6aa6-3b54-483b-b587-a40f2898f57e)
