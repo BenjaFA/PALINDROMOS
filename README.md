@@ -104,4 +104,5 @@ situaciones criticas en diferentes metodos, por lo tanto, las pruebas unitarias 
 
 ------------------------- resultado final del metodo y las pruebas unitarias -------------------------------------
 
+![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/912c4755-38ae-4ab9-9797-a0630e4c670c)
 
