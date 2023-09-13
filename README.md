@@ -102,7 +102,7 @@ Conclusion: Gracias a las pruebas unitarias podemos transformar un metodo que te
 situaciones criticas en diferentes metodos, por lo tanto, las pruebas unitarias es una parte importante en el testing de codigo.
 
 
-------------------------- resultado final del metodo y las pruebas unitarias -------------------------------------
+------------------------- Resultado final del metodo y las pruebas unitarias -------------------------------------
 
 ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/912c4755-38ae-4ab9-9797-a0630e4c670c)
 
