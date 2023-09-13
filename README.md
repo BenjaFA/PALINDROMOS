@@ -5,15 +5,15 @@ Integrantes: Benjamin Fernandez - Yoandri Villarroel - Alex Saez
 
 ------------------------------------------------------------ Paso 1 ------------------------------------------------------------
 
-¿Qué hace el método?
+-¿Qué hace el método?
 
 R: Este metodo toma una cadena de texto en la entrada y en la salida retorna la comparacion entre la cadena invertida y la cadena ingresada.
 
-¿Cómo lo hace?
+-¿Cómo lo hace?
 
 R: primero crea una variable "resultado" siendo una cadena vacia, luego cambia el resultado diviendo la cadena con el .split(''), luego usa el reverse() para que la cadena dividida se invierta de posicion y luego lo vuelven a unir usando el .join(''). Por ultimo la cadena se compara con el resultado, siendo que si estos son iguales entonces seria un palindromo o en caso contrario, no lo seria.
 
-¿Como lo uso?
+-¿Como lo uso?
 
 R: Llamando el metodo esPalindromo() y darle una cadena de texto como argumento, lo cual con las instrucciones dentro del metodo se comparará la cadena con el resultado para devolver si es palindromo o no.
 
@@ -25,7 +25,7 @@ ejemplo:
 
 -por ultimo se compara la cadena de texto principal en este caso "oso" la cual se comparará con la cadena invertida por lo cual retornara si es un palindromo o no.
 
---------------------- Paso 2 ---------------------
+------------------------------------------------------------ Paso 2 ------------------------------------------------------------
 
 Benjamín Fernández: ![palindromo](https://github.com/BenjaFA/PALINDROMOS/assets/142475169/cc9ddee8-aedf-4a63-bed1-14d9ea0327a7)
 
@@ -36,14 +36,14 @@ Alex Sáez: ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/6a5
 Yoandri Villarroel: ![Captura pantalla](https://github.com/BenjaFA/PALINDROMOS/assets/142508978/dfcf4536-2d69-4976-b5d4-d0e3251ccdc3)
 
 
---------------------- Paso 3 ---------------------
+------------------------------------------------------------ Paso 3 ------------------------------------------------------------
 
 3.2: Los posibles casos criticos son: entrada vacia o nula, mayusculas o minusculas, espacios en blancos, caracteres especiales (@&$%) y entrada de numeros
 
 3.4 ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/dafc14d4-7602-44d1-8d12-73cdd06164ea)
  
 
---------------------- Paso 4 ---------------------
+------------------------------------------------------------ Paso 4 ------------------------------------------------------------
 
 4.1:
 
@@ -96,13 +96,13 @@ R: nos dieron una mejor vision en como podriamos implementar en nuestro cdigo a�
 
 
 
--------------------------------- Paso 5 ------------------------------------------
+------------------------------------------------------------ Paso 5 ------------------------------------------------------------
 
 Conclusion: Gracias a las pruebas unitarias podemos transformar un metodo que tenga varios erroes en un metodo mas estable contra errores, ademas, nos permite mejorar en el analisis de
 situaciones criticas en diferentes metodos, por lo tanto, las pruebas unitarias es una parte importante en el testing de codigo.
 
 
-------------------------- Resultado final del metodo y las pruebas unitarias -------------------------------------
+------------------------------------- Resultado final del metodo y las pruebas unitarias -------------------------------------
 
 ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/912c4755-38ae-4ab9-9797-a0630e4c670c)
 
