@@ -5,15 +5,15 @@ Integrantes: Benjamin Fernandez - Yoandri Villarroel - Alex Saez
 
 ------------------------------------------------------------ Paso 1 ------------------------------------------------------------
 
--¿Qué hace el método?
+¿Qué hace el método?
 
 R: Este metodo toma una cadena de texto en la entrada y en la salida retorna la comparacion entre la cadena invertida y la cadena ingresada.
 
--¿Cómo lo hace?
+¿Cómo lo hace?
 
 R: primero crea una variable "resultado" siendo una cadena vacia, luego cambia el resultado diviendo la cadena con el .split(''), luego usa el reverse() para que la cadena dividida se invierta de posicion y luego lo vuelven a unir usando el .join(''). Por ultimo la cadena se compara con el resultado, siendo que si estos son iguales entonces seria un palindromo o en caso contrario, no lo seria.
 
--¿Como lo uso?
+¿Como lo uso?
 
 R: Llamando el metodo esPalindromo() y darle una cadena de texto como argumento, lo cual con las instrucciones dentro del metodo se comparará la cadena con el resultado para devolver si es palindromo o no.
 
