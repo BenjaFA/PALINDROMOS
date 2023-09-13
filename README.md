@@ -106,3 +106,5 @@ situaciones criticas en diferentes metodos, por lo tanto, las pruebas unitarias 
 
 ![image](https://github.com/BenjaFA/PALINDROMOS/assets/135442605/912c4755-38ae-4ab9-9797-a0630e4c670c)
 
+![image](https://github.com/BenjaFA/PALINDROMOS/assets/142508978/4e195fba-d8cb-4f5c-804d-5c16d7fd54b4)
+
