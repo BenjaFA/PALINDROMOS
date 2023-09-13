@@ -73,6 +73,17 @@ Output: ????
 caso prueba 5: falso
 
 
+4.2:
+
+¿Que consideraciones tomaron en cuenta?
+
+R:
+
+¿Que mejoró en su método?
+R:
+
+¿Qué rol jugaron las pruebas en mejorar su codigo?
+R:
 
 
 
